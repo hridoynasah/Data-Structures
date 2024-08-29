@@ -1,0 +1,9 @@
+# All we used static memory. (Compile time memory)
+i) Limited memory
+ii) Auto clear from memory
+iii) It can't return array
+
+# Dynamic memory. (Run time memeory)
+i) More memory
+ii) User should clear 
+iii) It can return array
